@@ -1,3 +1,3 @@
 # Talha
-cd talga
+cd Talha
 python talga.py
